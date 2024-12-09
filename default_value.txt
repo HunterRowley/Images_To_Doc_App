@@ -1,0 +1,10 @@
+Default Values for ETG_Tkinter_Window
+Target Directory=C:\pythonProject\Git Tag Generator
+CSV Filename=Employee ID List
+Doc Name=Operator Tags Not Enter
+Picture Width=2.63
+Picture Height=1.03
+Page Margins={'top': '', 'bottom': '', 'left': '', 'right': ''}
+Tab Stops=(left,0.14),(center,4.25),(right,8.36)
+Line Spacing=0.0
+Test Default=0.14,4.25,8.36
